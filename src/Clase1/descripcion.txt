@@ -1,0 +1,2 @@
+la clase Metodos_Lista incluye los puntos 1 y 2 del ejercicio.
+Main_clase lleva el tercer punto del taller.
