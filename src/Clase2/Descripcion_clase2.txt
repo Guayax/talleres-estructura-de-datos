@@ -1,0 +1,6 @@
+En Main_Clase2 se medira y comparara el tiempo de ejecucion de los 2 metodos creados para calcular el metodo de fivonacci
+
+En Metodos_fivonacci es el objeto el cual contiene los 2 metodos creados para calcular el metodo de fivonacci
+
+Debido al poco conocimiento que tenia del metodo de fivonacci, añadi una opcion si el numero de iteraciones es menor a 2
+por ende la velocidad de ejecucion se vio afectada por los extras if inecesarios.
